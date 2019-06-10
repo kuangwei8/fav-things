@@ -1,27 +1,3 @@
-
-/* Hide paragraphs until user answers survey questons and submits the form. */
-#disqualified {
+#list1 {
   display: none;
-}
-
-#javascript {
-  display: none;
-}
-
-#python {
-  display: none;
-}
-
-#swift {
-  display: none;
-}
-
-#c {
-  display: none;
-}
-
-/* Style paragraphs that describe languages. */
-.language {
-font-style: italic;
-padding-bottom: 30px;
 }
